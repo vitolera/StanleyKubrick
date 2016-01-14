@@ -1,0 +1,37 @@
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline 
+Año & Película & Nominación Óscar & Premio Óscar & Notas & Presupuesto & IMDB \\ 
+\hline 
+1951 & Day of the fight & • & x & • & 3900 & • \\ 
+\hline 
+• & Flying Padre & • & x & • & • & • \\ 
+\hline 
+1953 & Miedo y deseo & • & x & • & 20000 & 5.7 \\ 
+\hline 
+• & The seafarers & • & x & • & • & • \\ 
+\hline 
+1955 & El beso del asesino & • & x & • & 75000 & 6.7 \\ 
+\hline 
+1956 & Thye killing & • & x & • & • & • \\ 
+\hline 
+1957 & Senderos de gloria & • & x & • & 935000 & 8.1 \\ 
+\hline 
+1960 & Espartaco & • & x & • & 12000000 & 7.9 \\ 
+\hline 
+1962 & Lolita & • & x & • & 2000000 & 7.7 \\ 
+\hline 
+1964 & Dr. Strangelove & 3 & x & • & 1800000 & 8.5 \\ 
+\hline 
+1968 & 2001: Una odisea en el espacio & 3 & Efectos visuales & Se rumorea que el escenario se usó cuando el hombre llegó a la Luna & 10500000 & 8.3 \\ 
+\hline 
+1971 & La naranja mecánica & 3 & x & • & 2200000 & 8.4 \\ 
+\hline 
+1975 & Barry Lyndon & 3 & x & • & 11000000 & 8.1 \\ 
+\hline 
+1980 & El resplandor & • & x & • & 19000000 & 8.4 \\ 
+\hline 
+1987 & La chaqueta metálica & 1 & x & • & 30000000 & 8.3 \\ 
+\hline 
+1999 & Eyes Wide Shut & • & x & • & 65000000 & 7.3 \\ 
+\hline 
+\end{tabular} 
